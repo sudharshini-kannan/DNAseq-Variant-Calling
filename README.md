@@ -163,7 +163,7 @@ Using different datasets allowed the workflow to be demonstrated efficiently whi
 |---------|---------|
 | NA12878 | Main human variant-calling analysis |
 | E. coli | Fast alignment and BAM-processing demonstration |
-| Teaching dataset | QC and preprocessing demonstration |
+| Training dataset | QC and preprocessing demonstration |
 
 The important point is that these datasets were **not mixed together**.
 
