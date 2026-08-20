@@ -204,6 +204,9 @@ The human reference genome used for the NA12878 analysis was:
 
 This corresponds to the Broad Institute hg38/GRCh38 reference resource.
 
+Author
+Sudharshini Kannan
+
 The following reference files were generated/used:
 
 ```text
