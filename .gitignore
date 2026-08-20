@@ -1,0 +1,46 @@
+# Reference genomes
+reference/*.fa
+reference/*.fasta
+reference/*.fa.gz
+reference/*.fasta.gz
+reference/*.fai
+reference/*.dict
+reference/*.amb
+reference/*.ann
+reference/*.bwt
+reference/*.pac
+reference/*.sa
+
+# Large sequencing files
+data/*.bam
+data/*.bam.bai
+data/*.cram
+data/*.cram.crai
+data/*.fastq
+data/*.fastq.gz
+data/*.fq
+data/*.fq.gz
+
+# Large result files
+results/*.bam
+results/*.bam.bai
+results/*.cram
+results/*.cram.crai
+results/*.g.vcf.gz
+results/*.g.vcf.gz.tbi
+results/*.vcf.gz
+results/*.vcf.gz.tbi
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Conda / environment
+.conda/
+conda_env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
